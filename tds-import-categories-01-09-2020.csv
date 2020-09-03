@@ -1,62 +1,62 @@
 CATEGORY_NAME,CATEGORY_ID,CATEGORY_DESCRIPTION,CATEGORY_IMAGES,CATEGORY_PUBLISHED,CATEGORY_ACTIVE
-GIN,gin,,,TRUE,TRUE
-VODKA,vodka,,,TRUE,TRUE
-RUM,rum,,,TRUE,TRUE
-"WHISKY, WHISKEY & BOURBON",whiskywhiskey&bourbon,,,TRUE,TRUE
-TEQUILA & MEZCAL,tequila&mezcal,,,TRUE,TRUE
-BRANDY,brandy,,,TRUE,TRUE
-"SHERRY, VERMOUTH & LIQUEURS",sherryvermouth&liqueurs,,,TRUE,TRUE
-ALCOHOL-FREE DRINKS,alcoholfreedrinks,,,TRUE,TRUE
-SPECIAL OFFERS,specialoffers,,,TRUE,TRUE
-WINE,wine,,,TRUE,TRUE
-BEER,beer,,,TRUE,TRUE
-GIFT IDEAS,giftideas,,,TRUE,TRUE
-MERCHANDISE,merchandise,,,TRUE,TRUE
-EXCLUSIVES,exclusives,,,TRUE,TRUE
-FLAVOURED GIN,flavouredgin,,,TRUE,TRUE
-DRY GIN,drygin,,,TRUE,TRUE
-SLOE GIN,sloegin,,,TRUE,TRUE
-OLD TOM GIN,oldtomgin,,,TRUE,TRUE
-CASK AGED GIN,caskagedgin,,,TRUE,TRUE
-JENEVER,jenever,,,TRUE,TRUE
-FLAVOURED VODKA,flavouredvodka,,,TRUE,TRUE
-PREMIUM VODKA,premiumvodka,,,TRUE,TRUE
-PLAIN VODKA,plainvodka,,,TRUE,TRUE
-SPICED RUM,spicedrum,,,TRUE,TRUE
-FLAVOURED RUM,flavouredrum,,,TRUE,TRUE
-DARK RUM,darkrum,,,TRUE,TRUE
-GOLD RUM,goldrum,,,TRUE,TRUE
-NAVY RUM,navyrum,,,TRUE,TRUE
-WHITE RUM,whiterum,,,TRUE,TRUE
-SCOTCH WHISKY,scotchwhisky,,,TRUE,TRUE
-IRISH WHISKEY,irishwhiskey,,,TRUE,TRUE
-AMERICAN WHISKY,americanwhisky,,,TRUE,TRUE
-SINGLE MALT WHISKY,singlemaltwhisky,,,TRUE,TRUE
-ANEJO TEQUILA,anejotequila,,,TRUE,TRUE
-REPOSADO TEQUILA,reposadotequila,,,TRUE,TRUE
-BLANCO TEQUILA,blancotequila,,,TRUE,TRUE
-MEZCAL,mezcal,,,TRUE,TRUE
-COGNAC,cognac,,,TRUE,TRUE
-ARMANGNAC,armangnac,,,TRUE,TRUE
-SHERRY,sherry,,,TRUE,TRUE
-VERMOUTH,vermouth,,,TRUE,TRUE
-BITTERS,bitters,,,TRUE,TRUE
-LIQUEURS,liqueurs,,,TRUE,TRUE
-PORT,port,,,TRUE,TRUE
-MIXERS,mixers,,,TRUE,TRUE
-GINGER BEER & ALE,gingerbeer&ale,,,TRUE,TRUE
-NO & LOW ALCOHOL,no&lowalcohol,,,TRUE,TRUE
-TONIC WATER,tonicwater,,,TRUE,TRUE
-SODA WATER,sodawater,,,TRUE,TRUE
-COCKTAIL SYRUPS,cocktailsyrups,,,TRUE,TRUE
-BOTANICAL SPIRITS,botanicalspirits,,,TRUE,TRUE
-MULTI-BUY OFFERS,multibuyoffers,,,TRUE,TRUE
-TOP SAVINGS,topsavings,,,TRUE,TRUE
-RED WINE,redwine,,,TRUE,TRUE
-WHITE WINE,whitewine,,,TRUE,TRUE
-ROSE  WINE,rosewine,,,TRUE,TRUE
-SPARKLING WINE,sparkilingwine,,,TRUE,TRUE
-CHAMPAGNE,champagne,,,TRUE,TRUE
-BIN END & WINE CASE DEALS,binend&winecasedeals,,,TRUE,TRUE
-CHRISTMAS GIFTS,christmasgifts,,,TRUE,TRUE
-BIRTHDAY GIFTS,birthdaygifts,,,TRUE,TRUE
+Gin,gin,,,TRUE,TRUE
+Vodka,vodka,,,TRUE,TRUE
+Rum,rum,,,TRUE,TRUE
+"Whisky, Whiskey & Bourbon",whiskywhiskey&bourbon,,,TRUE,TRUE
+Tequila & Mezcal,tequila&mezcal,,,TRUE,TRUE
+Brandy,brandy,,,TRUE,TRUE
+"Sherry, Vermouth & Liqueurs",sherryvermouth&liqueurs,,,TRUE,TRUE
+Alcohol-Free Drinks,alcoholfreedrinks,,,TRUE,TRUE
+Special Offers,specialoffers,,,TRUE,TRUE
+Wine,wine,,,TRUE,TRUE
+Beer,beer,,,TRUE,TRUE
+Gift Ideas,giftideas,,,TRUE,TRUE
+Merchandise,merchandise,,,TRUE,TRUE
+Exclusives,exclusives,,,TRUE,TRUE
+Flavoured Gin,flavouredgin,,,TRUE,TRUE
+Dry Gin,drygin,,,TRUE,TRUE
+Sloe Gin,sloegin,,,TRUE,TRUE
+Old Tom Gin,oldtomgin,,,TRUE,TRUE
+Cask Aged Gin,caskagedgin,,,TRUE,TRUE
+Jenever,jenever,,,TRUE,TRUE
+Flavoured Vodka,flavouredvodka,,,TRUE,TRUE
+Premium Vodka,premiumvodka,,,TRUE,TRUE
+Plain Vodka,plainvodka,,,TRUE,TRUE
+Spiced Rum,spicedrum,,,TRUE,TRUE
+Flavoured Rum,flavouredrum,,,TRUE,TRUE
+Dark Rum,darkrum,,,TRUE,TRUE
+Gold Rum,goldrum,,,TRUE,TRUE
+Navy Rum,navyrum,,,TRUE,TRUE
+White Rum,whiterum,,,TRUE,TRUE
+Scotch Whisky,scotchwhisky,,,TRUE,TRUE
+Irish Whiskey,irishwhiskey,,,TRUE,TRUE
+American Whisky,americanwhisky,,,TRUE,TRUE
+Single Malt Whisky,singlemaltwhisky,,,TRUE,TRUE
+Añejo Tequila,añejotequila,,,TRUE,TRUE
+Reposado Tequila,reposadotequila,,,TRUE,TRUE
+Blanco Tequila,blancotequila,,,TRUE,TRUE
+Mezcal,mezcal,,,TRUE,TRUE
+Cognac,cognac,,,TRUE,TRUE
+Armangnac,armangnac,,,TRUE,TRUE
+Sherry,sherry,,,TRUE,TRUE
+Vermouth,vermouth,,,TRUE,TRUE
+Bitters,bitters,,,TRUE,TRUE
+Liqueurs,liqueurs,,,TRUE,TRUE
+Port,port,,,TRUE,TRUE
+Mixers,mixers,,,TRUE,TRUE
+Ginger Beer & Ale,gingerbeer&ale,,,TRUE,TRUE
+No & Low Alcohol,no&lowalcohol,,,TRUE,TRUE
+Tonic Water,tonicwater,,,TRUE,TRUE
+Soda Water,sodawater,,,TRUE,TRUE
+Cocktail Syrups,cocktailsyrups,,,TRUE,TRUE
+Botanical Spirits,botanicalspirits,,,TRUE,TRUE
+Multi-Buy Offers,multibuyoffers,,,TRUE,TRUE
+Top Savings,topsavings,,,TRUE,TRUE
+Red Wine,redwine,,,TRUE,TRUE
+White Wine,whitewine,,,TRUE,TRUE
+Rosé  Wine,roséwine,,,TRUE,TRUE
+Sparkling Wine,sparkilingwine,,,TRUE,TRUE
+Champagne,champagne,,,TRUE,TRUE
+Bin End & Wine Case Deals,binend&winecasedeals,,,TRUE,TRUE
+Christmas Gifts,christmasgifts,,,TRUE,TRUE
+Birthday Gifts,birthdaygifts,,,TRUE,TRUE
