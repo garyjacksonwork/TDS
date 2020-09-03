@@ -34,7 +34,7 @@ SCOTCH WHISKY,scotchwhisky,,,TRUE,TRUE
 IRISH WHISKEY,irishwhiskey,,,TRUE,TRUE
 AMERICAN WHISKY,americanwhisky,,,TRUE,TRUE
 SINGLE MALT WHISKY,singlemaltwhisky,,,TRUE,TRUE
-AÑEJO TEQUILA,añejotequila,,,TRUE,TRUE
+ANEJO TEQUILA,anejotequila,,,TRUE,TRUE
 REPOSADO TEQUILA,reposadotequila,,,TRUE,TRUE
 BLANCO TEQUILA,blancotequila,,,TRUE,TRUE
 MEZCAL,mezcal,,,TRUE,TRUE
@@ -56,7 +56,7 @@ MULTI-BUY OFFERS,multibuyoffers,,,TRUE,TRUE
 TOP SAVINGS,topsavings,,,TRUE,TRUE
 RED WINE,redwine,,,TRUE,TRUE
 WHITE WINE,whitewine,,,TRUE,TRUE
-ROSÉ  WINE,roséwine,,,TRUE,TRUE
+ROSE  WINE,rosewine,,,TRUE,TRUE
 SPARKLING WINE,sparkilingwine,,,TRUE,TRUE
 CHAMPAGNE,champagne,,,TRUE,TRUE
 BIN END & WINE CASE DEALS,binend&winecasedeals,,,TRUE,TRUE
