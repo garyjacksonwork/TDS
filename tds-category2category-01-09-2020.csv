@@ -1,5 +1,4 @@
 PARENT_CATEGORY,CHILD_CATEGORY
-,
 vodka,flavouredvodka
 vodka,premiumvodka
 vodka,plainvodka
@@ -25,7 +24,7 @@ whiskywhiskey&bourbon,scotchwhisky
 whiskywhiskey&bourbon,irishwhiskey
 whiskywhiskey&bourbon,americanwhisky
 whiskywhiskey&bourbon,singlemaltwhisky
-tequila&mezcal,añejotequila
+tequila&mezcal,anejotequila
 tequila&mezcal,reposadotequila
 tequila&mezcal,blancotequila
 tequila&mezcal,mezcal
@@ -46,7 +45,7 @@ specialoffers,multibuyoffers
 specialoffers,topsavings
 wine,redwine
 wine,whitewine
-wine,roséwine
+wine,rosewine
 wine,sparkilingwine
 wine,champagne
 wine,binend&winecasedeals
