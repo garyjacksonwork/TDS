@@ -1,62 +1,62 @@
 CATEGORY_NAME,CATEGORY_ID,CATEGORY_DESCRIPTION,CATEGORY_IMAGES,CATEGORY_PUBLISHED,CATEGORY_ACTIVE
-Gin,gin,,,TRUE,TRUE
-Vodka,vodka,,,TRUE,TRUE
-Rum,rum,,,TRUE,TRUE
-"Whisky, Whiskey & Bourbon",whiskywhiskey&bourbon,,,TRUE,TRUE
-Tequila & Mezcal,tequila&mezcal,,,TRUE,TRUE
-Brandy,brandy,,,TRUE,TRUE
-"Sherry, Vermouth & Liqueurs",sherryvermouth&liqueurs,,,TRUE,TRUE
-Alcohol-Free Drinks,alcoholfreedrinks,,,TRUE,TRUE
-Special Offers,specialoffers,,,TRUE,TRUE
+Gin,gin,"Whether flavoured gin or dry gin, this botanical inspired spirit has become a favourite tipple across the UK and is fast spreading in repute across the globe. The Drop Store offers a delectable array of gin styles from fragrant and floral to herbal and spicy. Shop for your favourite gins as well as some quite unusual gins and much loved gin gifts.",,TRUE,TRUE
+Vodka,vodka,"Vodka is a clear distilled alcoholic beverage that originates from Poland and Russia. It’s disputed whether vodka was first produced in Russia or Poland—there’s talk of vodka being produced in Russia in the 9th Century, and in Poland in the 8th Century, but these were both likely crude precursors.  Vodka is composed primarily of water and ethanol, but sometimes with traces of impurities and flavourings. Traditionally it is made by distilling the liquid from cereal grains or potatoes that have been fermented, though some modern brands use fruits or sugar as the base. Vodka is traditionally drunk ""neat"" or ""straight"" (not mixed with water, ice, or other mixer), although it is often served freezer chilled. It is also used in cocktails and mixer drinks, such as the Vodka Martini, Cosmopolitan, Vodka Tonic, Screwdriver, Greyhound, Black or White Russian, Moscow Mule, Bloody Mary, and Bloody Caesar.",,TRUE,TRUE
+Rum,rum,"Made from sugarcane and traditionally produced in the Caribbean and Latin America, rum is now created all over the world in many varying styles of flavour, strength and mixability. White rum is most often used in famous rum cocktails such as the daiquiri or the mojito, while aged and dark rums are often sipped neat. Spiced and flavoured rums bring out the truly playful side of rum and can be used to create mouth-watering cocktails.",,TRUE,TRUE
+"Whisky, Whiskey & Bourbon",whisky-whiskey-bourbon,"Whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash. Various grains are used for different varieties, including barley, corn, rye, and wheat. Whisky is typically aged in wooden casks,generally made of charred white oak. Scottish Whisky: The term 'whisky' comes from the Gaelic 'uisge beatha', or 'usquebaugh', meaning 'water of life'. Irish Whiskey:  must be distilled on the island of Ireland (comprising the Republic of Ireland and Northern Ireland) from a mash of malted cereals with or without whole grains of other cereals Bourbon: ?a whiskey distilled, chiefly in the US, from maize, esp one containing at least 51 per cent maize (the rest being malt and rye) and aged in charred white-oak barrels WHY NOT TRY A SEARCH BY TASTE, BRAND, PALATE? YOU MAY FIND YOUR NEW FAVOURITE TIPPLE!",,TRUE,TRUE
+Tequila & Mezcal,tequila-mezcal,"Originating in Mexico, tequila and mezcal are both produced from the agave plant and both have infinite styles of flavour. Certainly no longer considered just a drink to shoot, premium tequilas and mezcals are some of the most refined and lovingly crafted spirits in the world. Flavours can range from delicate and floral to sweet and fruity or rich and spicy.",,TRUE,TRUE
+Brandy,brandy,"Brandy, alcoholic beverage distilled from wine or a fermented fruit mash. The term used alone generally refers to the grape product; brandies made from the wines or fermented mashes of other fruits are commonly identified by the specific fruit name. Why not try try a search by taste, brand, palate? You may find your new favourite Brandy!",,TRUE,TRUE
+"Sherry, Vermouth & Liqueurs",sherry-vermouth-liqueurs,,,TRUE,TRUE
+Alcohol-Free Drinks,alcohol-free-drinks,"Whether banishing the booze or finding the ideal companion mixer for your favourite spirit, The Drop Store's collection of low and no alcohol drinks taps into the popularity for low ABV tipples. The alcohol free range features beer, wine and spirits as well as a wide selection of flavoured mixers.",,TRUE,TRUE
+Special Offers,special-offers,"Please browse our special offers and always pop back to check, we add new offers regularly - whether it's sale items or giving away free T-shirts or glasses!",,TRUE,TRUE
 Wine,wine,,,TRUE,TRUE
-Beer,beer,,,TRUE,TRUE
-Gift Ideas,giftideas,,,TRUE,TRUE
+Beer,beer,"From refreshing lager to full bodied ales and porter, The Drop Store range of craft beer is available with fast and secure delivery.",,TRUE,TRUE
+Gift Ideas,gift-ideas,,,TRUE,TRUE
 Merchandise,merchandise,,,TRUE,TRUE
 Exclusives,exclusives,,,TRUE,TRUE
-Flavoured Gin,flavouredgin,,,TRUE,TRUE
-Dry Gin,drygin,,,TRUE,TRUE
-Sloe Gin,sloegin,,,TRUE,TRUE
-Old Tom Gin,oldtomgin,,,TRUE,TRUE
-Cask Aged Gin,caskagedgin,,,TRUE,TRUE
+Flavoured Gin,flavoured-gin,"If you love discovering new and unusual flavours then take note of The Drop Store's range of flavoured gins. Whether fruity, zesty, rich or sweet, flavoured gins let you explore a limitless range of flavours that are perfectly matched with tonic, lemonade or juices. More than just pink gin or citrus gin, flavoured gins let you explore flavours such as rhubarb, orange, violet and even pumpkin!",,TRUE,TRUE
+Dry Gin,dry-gin,"The quintessential expression of gin. Flavours in dry gin are all natural and derived from botanicals including the essential juniper berry. Included in this category is London Dry Gin; the most widely available style of gin on the UK market. Dry gins are often complex and aromatic, smooth enough for a martini, yet rich and balanced. Perfect for a G&T.",,TRUE,TRUE
+Sloe Gin,sloe-gin,"A traditional style of flavoured gin, Sloe gin is a rich and fruity sweet gin made using plum-like sloe berries. Sloe gin is often sipped neat or drunk during colder months as a hot toddy cocktail, but it works just as well with ice and a dash of lemonade during spring and summer.",,TRUE,TRUE
+Old Tom Gin,old-tom-gin,"Old Tom Gin is a gin recipe popular in 18th-century England but has experienced a resurgence as a true craft gin. Old Tom Gin is a sweeter style than most gins, and lighter, too. Richly flavoured, rounded on the palate with a beautifully delicate finish it makes for a perfectly refreshing summer-time G&T.",,TRUE,TRUE
+Cask Aged Gin,cask-aged-gin,,,TRUE,TRUE
 Jenever,jenever,,,TRUE,TRUE
-Flavoured Vodka,flavouredvodka,,,TRUE,TRUE
-Premium Vodka,premiumvodka,,,TRUE,TRUE
-Plain Vodka,plainvodka,,,TRUE,TRUE
-Spiced Rum,spicedrum,,,TRUE,TRUE
-Flavoured Rum,flavouredrum,,,TRUE,TRUE
-Dark Rum,darkrum,,,TRUE,TRUE
-Gold Rum,goldrum,,,TRUE,TRUE
-Navy Rum,navyrum,,,TRUE,TRUE
-White Rum,whiterum,,,TRUE,TRUE
-Scotch Whisky,scotchwhisky,,,TRUE,TRUE
-Irish Whiskey,irishwhiskey,,,TRUE,TRUE
-American Whisky,americanwhisky,,,TRUE,TRUE
-Single Malt Whisky,singlemaltwhisky,,,TRUE,TRUE
-Anejo Tequila,anejotequila,,,TRUE,TRUE
-Reposado Tequila,reposadotequila,,,TRUE,TRUE
-Blanco Tequila,blancotequila,,,TRUE,TRUE
+Flavoured Vodka,flavoured-vodka,"Flavoured Vodka, suitable to be taken as a shot, neat with ice or used in cocktails. Whatever your preference there is something to suit everyone.",,TRUE,TRUE
+Premium Vodka,premium-vodka,,,TRUE,TRUE
+Plain Vodka,plain-vodka,,,TRUE,TRUE
+Spiced Rum,spiced-rum,,,TRUE,TRUE
+Flavoured Rum,flavoured-rum,,,TRUE,TRUE
+Dark Rum,dark-rum,,,TRUE,TRUE
+Gold Rum,gold-rum,,,TRUE,TRUE
+Navy Rum,navy-rum,,,TRUE,TRUE
+White Rum,white-rum,,,TRUE,TRUE
+Scotch Whisky,scotch-whisky,"What is Scotch Whisky? Scotch Whisky is a distillate made in Scotland from the elements of cereals. water and yeast, all of which nature will in due course replace. When consumers ask for a Scotch, what exactly do they mean? They usually mean a blended Scotch Whisky, that is a blend of as many as 50 individual Scotch Malt and Scotch Grain Whiskies. The wide range of single whiskies available in Scotland ensures the continued high quality and consistency of brands of blended Scotch Whisky and year in year out, enables blenders to ensure that all their brands maintain their individual characteristics. Blended whiskies account for more than 95 per cent of all Scotch Whisky sold in world markets. What is a single whisky? It is the product of a single distillery. Most distilleries produce Scotch Whisky primarily for the purpose of blending, but many retain some of their production for sale as single whiskies. A single Malt Whisky is the product of one Malt Whisky distillery and a single Grain Whisky is the product of one Grain Whisky distillery. Please browse our collection below and find your favourite!",,TRUE,TRUE
+Irish Whiskey,irish-whiskey,"Ireland’s whiskey scene is having a massive revival Irish whiskey doesn’t have the same smoky flavor that some Scotches have. Drying barley over peat fires causes the smoke flavor in many Scotch whiskies, and that’s not traditionally done in Ireland. Instead, Irish whiskey tends to have a lighter flavor. It really is a spirit that’s good when it’s drunk on its own. Please browse our selection below and find your favourite!",,TRUE,TRUE
+American Whisky,american-whisky,"Creativity is 80% bourbon and 20% ice. Bourbon whiskey is a type of American whiskey, a barrel-aged distilled spirit made primarily from corn. The name ultimately derives from the French Bourbon dynasty, although the precise inspiration for the whiskey's name is uncertain; contenders include Bourbon County in Kentucky and Bourbon Street in New Orleans, both of which are named after the dynasty. Bourbon has been distilled since the 18th century. Find your new favourite below!",,TRUE,TRUE
+Single Malt Whisky,single-malt-whisky,,,TRUE,TRUE
+A&ntilde;ejo Tequila,anejo-tequila,"A&ntilde;ejo Tequila is aged for one-to-three years in oak. This is a sipping tequila, a style that exhibits not only flavors of agave, but rich vanilla and floral aromas as well.",,TRUE,TRUE
+Reposado Tequila,reposado-tequila,"Reposado tequilas see two months to one year in oak. This is a style of tequila that’s perfect for margaritas and other mixed drinks with character, as the slight amount of aging rounds and softens it while adding a delicate richness.",,TRUE,TRUE
+Blanco Tequila,blanco-tequila,"Blanco Tequila called be called tequila in it’s purest form.; freshly distilled spirit which can express the nuances of its raw material arguably better than any other spirit . Blanco tequilas show you the true expertise of the distiller, because there are no oak flavors or aging to distract. It’s just the flavor of agave, freshly distilled.",,TRUE,TRUE
 Mezcal,mezcal,,,TRUE,TRUE
 Cognac,cognac,,,TRUE,TRUE
 Armangnac,armangnac,,,TRUE,TRUE
 Sherry,sherry,,,TRUE,TRUE
 Vermouth,vermouth,,,TRUE,TRUE
 Bitters,bitters,,,TRUE,TRUE
-Liqueurs,liqueurs,,,TRUE,TRUE
+Liqueurs,liqueurs,"Strong, sweet alcoholic drinks that are usually drunk in small amounts after a meal A liqueur is an alcoholic beverage made from a distilled spirit, flavoured with either fruit, cream, herbs, spices, flowers or nuts, and is bottled with added sugars and other sweeteners, (such as high-fructose corn syrup). Please browse our selection of fine Liqueurs and other favourites below!",,TRUE,TRUE
 Port,port,,,TRUE,TRUE
-Mixers,mixers,,,TRUE,TRUE
-Ginger Beer & Ale,gingerbeer&ale,,,TRUE,TRUE
-No & Low Alcohol,no&lowalcohol,,,TRUE,TRUE
-Tonic Water,tonicwater,,,TRUE,TRUE
-Soda Water,sodawater,,,TRUE,TRUE
-Cocktail Syrups,cocktailsyrups,,,TRUE,TRUE
-Botanical Spirits,botanicalspirits,,,TRUE,TRUE
-Multi-Buy Offers,multibuyoffers,,,TRUE,TRUE
-Top Savings,topsavings,,,TRUE,TRUE
-Red Wine,redwine,,,TRUE,TRUE
-White Wine,whitewine,,,TRUE,TRUE
-Rose  Wine,rosewine,,,TRUE,TRUE
-Sparkling Wine,sparkilingwine,,,TRUE,TRUE
+Mixers,mixers,"Browse our collection of premium and award winning mixers, marry up with our award winning spirits across the store!",,TRUE,TRUE
+Ginger Beer & Ale,ginger-beer-ale,,,TRUE,TRUE
+No & Low Alcohol,no-low-alcohol,,,TRUE,TRUE
+Tonic Water,tonic-water,,,TRUE,TRUE
+Soda Water,soda-water,,,TRUE,TRUE
+Cocktail Syrups,cocktail-syrups,"William Fox was founded by two drinks enthusiasts based in the north of England who wanted to create high quality, colourless, preservative-free syrups using only the purest natural flavours.",,TRUE,TRUE
+Botanical Spirits,botanical-spirits,,,TRUE,TRUE
+Multi-Buy Offers,multi-buy-offers,,,TRUE,TRUE
+Top Savings,top-savings,,,TRUE,TRUE
+Red Wine,red-wine,,,TRUE,TRUE
+White Wine,white-wine,,,TRUE,TRUE
+Ros&eacute; Wine,rose-wine,,,TRUE,TRUE
+Sparkling Wine,sparkiling-wine,,,TRUE,TRUE
 Champagne,champagne,,,TRUE,TRUE
-Bin End & Wine Case Deals,binend&winecasedeals,,,TRUE,TRUE
-Christmas Gifts,christmasgifts,,,TRUE,TRUE
-Birthday Gifts,birthdaygifts,,,TRUE,TRUE
+Bin End & Wine Case Deals,bin-end-wine-case-deals,"Please note that all case bundles are 6 bottles of the same product, superb value on these amazing wines for Portugal and Spain.",,TRUE,TRUE
+Christmas Gifts,christmas-gifts,,,TRUE,TRUE
+Birthday Gifts,birthday-gifts,,,TRUE,TRUE
